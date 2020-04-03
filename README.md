@@ -61,3 +61,7 @@ Due to the ever-changing nature of the character the DM plays (if even playing a
 ## Updates
 
 The program will need to be updated from time to time, as new bugs are discovered or new players join the campaign. This Github repo will host the most up to date version, so just redownload the zip and replace the old version as needed. I'll try to keep everyone using the program up to date on the Archival chat if there are any updates.
+
+## Source Code
+
+Due to privacy issues, the Python source code is hosted on a separate private repository. If you'd like access for development purposes, let me know and I'll get you added to that repo.
